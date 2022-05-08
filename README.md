@@ -12,4 +12,4 @@ My research interests are text analysis, natural language processing, informatio
 - **M. Mei**, A. Vanarase, and A. A. Minai, “Chunks of Thought: Finding Salient Semantic Structures in Texts,” in Proceedings of IJCNN 2014, 2014.
 
 
-Reach me at meimi@mail.uc.edu
+Feel free to reach me at meimi@mail.uc.edu!
