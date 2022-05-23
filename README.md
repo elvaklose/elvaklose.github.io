@@ -11,5 +11,6 @@ My research interests are text analysis, natural language processing, informatio
 - M. Candadai, A. Vanarase, **M. Mei**, and A. A. Minai, “ANSWER: An unsupervised attractor network method for detecting salient words in text corpora,” in Proceedings of IJCNN 2015, 2015.
 - **M. Mei**, A. Vanarase, and A. A. Minai, “Chunks of Thought: Finding Salient Semantic Structures in Texts,” in Proceedings of IJCNN 2014, 2014.
 
+[Demo of Thesis Analysis](https://github.com/elvaklose/elvaklose.github.io/blob/main/HD_cluster_mining_demo.ipynb)
 
 Feel free to reach me at meimi@mail.uc.edu!
